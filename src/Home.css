@@ -1,0 +1,39 @@
+
+.Text {
+  font-size: calc(30px + 2vmin);
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Button {
+  text-align: center;
+  justify-content: center;
+  height: 40vmin;
+  width: 50%;
+}
+
+.ButtonFound {
+  background-color: #86cc4c;
+}
+
+.ButtonNotFound {
+  background-color: #da3434;
+}
+
+.Image {
+  justify-content: center;
+}
+
+.ButtonArea {
+  display: flex;
+  flex-direction: row;
+}
+
+.Home {
+  background-color: #FFFFFF;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
